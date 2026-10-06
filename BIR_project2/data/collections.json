@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "collections": {
+    "glp-1-199cb197": {
+      "title": "GLP-1",
+      "default_query": "GLP-1[Title/Abstract]",
+      "source": "pubmed",
+      "source_queries": {
+        "pubmed": "GLP-1[Title/Abstract]"
+      },
+      "created_at": "2026-10-05T08:59:35+00:00",
+      "document_count": 992,
+      "imports": [
+        {
+          "source": "pubmed",
+          "query": "GLP-1[Title/Abstract]",
+          "requested": 1000,
+          "downloaded": 999,
+          "added": 945,
+          "retstart": 0,
+          "created_at": "2026-10-05T08:59:44+00:00"
+        },
+        {
+          "source": "pubmed",
+          "query": "GLP-1[Title/Abstract]",
+          "requested": 50,
+          "downloaded": 48,
+          "added": 47,
+          "retstart": 999,
+          "created_at": "2026-10-05T09:00:14+00:00"
+        }
+      ]
+    },
+    "computer-science-09d67c72": {
+      "title": "computer science",
+      "default_query": "(ti:\"computer science\" OR abs:\"computer science\")",
+      "source": "arxiv",
+      "source_queries": {
+        "arxiv": "(ti:\"computer science\" OR abs:\"computer science\")"
+      },
+      "created_at": "2026-10-05T09:05:28+00:00",
+      "document_count": 1000,
+      "imports": [
+        {
+          "source": "arxiv",
+          "query": "(ti:\"computer science\" OR abs:\"computer science\")",
+          "requested": 1000,
+          "downloaded": 1000,
+          "added": 1000,
+          "retstart": 0,
+          "created_at": "2026-10-05T09:05:30+00:00"
+        }
+      ]
+    },
+    "lung-cancer-0a4f5afa": {
+      "title": "lung cancer",
+      "default_query": "lung cancer[Title/Abstract]",
+      "source": "pubmed",
+      "source_queries": {
+        "pubmed": "lung cancer[Title/Abstract]"
+      },
+      "created_at": "2026-10-05T09:54:54+00:00",
+      "document_count": 968,
+      "imports": [
+        {
+          "source": "pubmed",
+          "query": "lung cancer[Title/Abstract]",
+          "requested": 1000,
+          "downloaded": 998,
+          "added": 968,
+          "retstart": 0,
+          "created_at": "2026-10-05T09:54:59+00:00"
+        }
+      ]
+    },
+    "ai-27cf04dd": {
+      "title": "AI",
+      "default_query": "(ti:\"AI\" OR abs:\"AI\")",
+      "source": "arxiv",
+      "source_queries": {
+        "arxiv": "(ti:\"AI\" OR abs:\"AI\")"
+      },
+      "created_at": "2026-10-06T00:46:03+00:00",
+      "document_count": 1000,
+      "imports": [
+        {
+          "source": "arxiv",
+          "query": "(ti:\"AI\" OR abs:\"AI\")",
+          "requested": 1000,
+          "downloaded": 1000,
+          "added": 1000,
+          "retstart": 0,
+          "created_at": "2026-10-06T00:46:06+00:00"
+        }
+      ]
+    }
+  }
+}
